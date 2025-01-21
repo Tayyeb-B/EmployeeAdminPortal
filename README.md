@@ -13,4 +13,4 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using **.
 - **.NET Core** (e.g., ASP.NET Core Web API or MVC)
 - **Entity Framework Core** (for database interaction)
 - **SQL Server** (or any other database you used)
-- **Bootstrap** (or any frontend framework if applicable)
+
